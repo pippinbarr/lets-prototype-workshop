@@ -38,3 +38,25 @@ So, if I have two hours in Texas, how would I think about what I have and how it
 - The Oregon Trail
 - BEING FAIR?
 - Noir Syndrome
+
+## samedi, 20 avril 2024
+
+So I need a plan here.
+
+My main observation is probably "just" that it needs to be more structured?
+
+My guess is that we have a more directly maker-oriented crew which ought to help a lot.
+
+I think that, centrally, having people *pick a pre-existing game/play format* and then work from there may be the most sensible idea - that the idea is a co-exploration of the myth and a form. But that fixing the form maybe makes the most sense for non-designers?
+
+How do I get around the feeling that *I* have that this is somehow boring? That the myths are inherently *dull*... presumably in large part because I've already done them and because they're so pristinely simple?
+
+But that can be used as *vehicles* for other narratives and emotions too right: like thinking about incarceration, thinking about punishment, thinking about repetition, ... maybe that's the secret sauce (that's why the UI ancient greek punishment is good, why the typing one is good, ...)
+
+And I can talk about that point and maybe make it the objective. That the big idea (unless you're an experience game designer) is kind of a nexus of
+
+- Myth
+- Metaphor / "Relevant Interactions" / Big Idea / Experience Goal
+- Form
+
+And maybe that's the secretive sauce.
