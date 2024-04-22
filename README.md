@@ -172,8 +172,6 @@ We could also choose to prioritize an experience or idea that the myth is well-s
 
 ## Some questions for discussion
 
-![](./images/art-edition.png)
-
 - How easy did you find it to succinctly express what your prototype is meant to convey?
 - And does it convey that? *How* does it?
 - What does your myth/experience teach you about your materials?
