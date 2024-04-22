@@ -8,7 +8,7 @@ In which, we take on three constraints in order to prototype a game in an hour o
 
 ![](./images/lets-play-ancient-greek-punishment-banner.png)
 
-Our starting point is a series of digital games I made between 2011 and 2019 (more to come? will I steal your ideas?) about mythological Greek punishments.
+Our starting point is a series of digital games I made between 2011 and 2019 about mythological Greek punishments. (More to come? Will I steal your ideas?)
 
 - [The original game](https://pippinbarr.com/lets-play-ancient-greek-punishment/info/) (2011)
 - [The variations](https://pippinbarr.com/ideas/ancient-greek-punishment/) (2015–2019)
@@ -20,8 +20,8 @@ Our starting point is a series of digital games I made between 2011 and 2019 (mo
 In order to *actually prototype a game*, we're going to constrain ourselves in three key ways.
 
 1. We'll choose a *pre-existing game* and/or *prototyping materials* (**the form**)
-2. We'll choose a *pre-existing story and setting* (**the myth**)
-3. We'll choose a *very specific idea or experience we want to communicate* (**the experience**)
+2. We'll choose a *pre-existing story* (**the myth**)
+3. We'll choose a *specific experience goal* (**the experience**)
 
 ---
 
@@ -31,9 +31,9 @@ These things will inevitably influence each other. That's a good thing.
 
 In my original videogame version of Sisyphus, for example, I had
 
-1. Form: simple minigames in the style of WarioWare
-2. Myth: Sisyphus (aka. guy pushing a rock up a hill forever)
-3. Experience goal: communicate *eternal* punishment dynamically, alluding to the repetitive (pointless?) labour of many videogames (so deep)
+1. **The form**: simple minigames in the style of WarioWare
+2. **The myth**: Sisyphus (aka. guy pushing a rock up a hill forever)
+3. **The experience**: communicate *eternal* punishment dynamically, alluding to the repetitive (pointless?) labour of many videogames (so deep)
 
 ## Why do this?
 
@@ -54,7 +54,7 @@ When you're making a game in a small amount of time, or are just inexperienced, 
 - [SNAKISMS](https://pippinbarr.com/SNAKISMS/info/) (2017)
 - [CHESSES](https://pippinbarr.com/chesses/info/) (2019)
 
-We're not going to have time to make digital game variations, so we'll need to choose games/activities that we can prototype in non-virtual reality.
+We're not going to have time to make videogame variations, so we'll need to choose games/activities that we can prototype here in non-virtual reality.
 
 What forms could we work from?
 
@@ -82,9 +82,11 @@ What forms could we work from?
 
 Let your mind start to see if it gravitates toward any particular games or activities. Familiarity and simplicity are usually a good idea. Try to notice how the materials as well as the rules might be a starting point for your design.
 
+Remember: **familiar and simple**
+
 ### Examples
 
-(These are just general variations - not so useful for today.)
+(These are just fast ideas - not all tuned toward today.)
 
 - "Go Fish" but you have to catch cards as they are thrown to you
 - "Snakes and Ladders" but you play as the snakes and ladders
@@ -103,14 +105,14 @@ It can be very helpful to have a specific narrative/story framing available as a
 - [Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) was sentenced to eternally push a boulder to the top of a slope, only to see it roll back down and to begin again
 - [Tantalus](https://en.wikipedia.org/wiki/Tantalus) was hungry and thirsty but every time he reached for a fruit or stooped for water it moved away from him
 - [Prometheus](https://en.wikipedia.org/wiki/Prometheus) was chained to a rock and doomed to have an eagle eat his liver every day
-- [The Danaids](https://en.wikipedia.org/w/index.php?title=Dana%C3%AFdes) had to fill a bathtub one bucket at a time, but the bathtub had holes that meant they could never fill it
-- [Zeno of Elea](https://en.wikipedia.org/w/index.php?title=Zeno_of_Elea) came up with the idea the movement is important because to get somewhere you have to go halfway, then halfway from there, then halfway from there, ... and so on, ... forever?
+- [The Danaids](https://en.wikipedia.org/w/index.php?title=Dana%C3%AFdes) had to fill a bathtub one bucket at a time, but the bucket had holes so that they could never succeed
+- [Zeno of Elea](https://en.wikipedia.org/w/index.php?title=Zeno_of_Elea) came up with the idea the movement is impossible because to get somewhere you have to go halfway, then halfway from there, then halfway from there, ... and so on, ... forever?
 
---
+---
 
 Again, see if your mind gravitates toward one of these naturally and let it start making notional pairings between myth and form.
 
-Find the *specificities* in your myth to help to unlock further potential: consider reading about it in more depth? *Why* were they punished? Did they ever *escape*? Do we know how they *felt* about it all?
+Find the *specificities* in your myth to help to unlock further potential: consider reading about it in a teeny bit more depth? *Why* were they punished? Did they ever *escape*? Do we know how they *felt* about it all?
 
 ### Examples
 
@@ -142,10 +144,10 @@ One option is to use our Form as an opportunity to create a deeper or distinctiv
 
 ### Myth as Metaphor?
 
-We could also choose to prioritize an experience or idea that the myth is well-suited (combined with our Form) to explore.
+We could also choose to prioritize an experience or idea that the myth is well-suited to explore (combined with our Form).
 
 - A meditation on punishment in contemporary society? (As "corrective," retribution, reformation, biased, futile, cruel, ...)
-- The idea of angering the gods/Fate/Facebook...
+- The idea of angering the gods/Fate/Facebook/ChatGPT...
 - Forgiveness (it's okay to zig)
 - Hopeless repetition as a meditation on contemporary life
 - How the punishment could have been improved? What would Silicon Valley do? How would techbros disrupt the punishment market?
@@ -156,17 +158,19 @@ We could also choose to prioritize an experience or idea that the myth is well-s
 ![](./images/sisyphus-the-twine.png)
 
 1. Form small teams (2-3 perhaps?)
-2. Have a quick chat an introduce yourselves to each other
+2. Have a quick chat and introduce yourselves to each other
 3. Five minutes (timed!) of high-speed idea generation *individually*
-    - We're looking for an idea every 20 seconds (15 ideas total)
-    - Each idea should address a specific set of Form, Myth, and Experience
+    - We're looking for an idea every 20 seconds (15 ideas total per person)
+    - Each idea should ideally address a specific set of Form, Myth, and Experience
 4. Discuss the ideas generated as a team and choose one to prototype
+    - A prototype only needs to be good enough to explore your idea
+    - Does not need "good graphics"
 5. 20 minutes (timed!) to prototype it with the materials to hand
     - It doesn’t have to be good! It probably shouldn't be!
     - If you finish early start another prototype!
     - Even if you don't finish make sure you have *something* to show us
     - Give your prototypes *titles*, it is fun!
-6. Show and tell time as a group (ideally)
+6. Show and tell time as a group (ideally we have time for this!)
     - Tell us the title and explain the basic form-myth-experience (though keep the experience secret if you want to)
     - Demo your prototype yourselves or with others depending on comfort level
 
@@ -174,8 +178,8 @@ We could also choose to prioritize an experience or idea that the myth is well-s
 
 - How easy did you find it to succinctly express what your prototype is meant to convey?
 - And does it convey that? *How* does it?
-- What does your myth/experience teach you about your materials?
-- What do your materials teach your about your myth/experience?
+- What does your myth/experience teach you about your materials (the form)?
+- What do your materials teach you about your myth/experience?
 - Is your prototype "the same as" a written account or animation of the myth? Why?
 
 These are *not the only questions* to think about.
